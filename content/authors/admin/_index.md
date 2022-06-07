@@ -30,7 +30,7 @@ education:
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BE in CSE
+    - course: Bachelors in Computer Science And Engg
       institution: Anna University CEG, Chennai
       year: 2018
 

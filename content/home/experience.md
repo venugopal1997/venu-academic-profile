@@ -28,7 +28,7 @@ experience:
   - title: Senior SDE
     company: PayPal India Pvt Ltd
     company_url: 'https://www.paypal.com/in/webapps/mpp/home'
-    company_logo: org-gc
+    company_logo: paypal
     location: Chennai, India
     date_start: '2020-06-01'
     date_end: ''
@@ -42,7 +42,7 @@ experience:
   - title: SDE
     company: NextEducation India Pvt Ltd
     company_url: 'https://www.nexteducation.in/'
-    company_logo: org-x
+    company_logo: next-education
     location: Hyderabad, India
     date_start: '2018-06-01'
     date_end: '2020-06-01'
