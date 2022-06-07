@@ -31,7 +31,7 @@ content:
   address:
     street: Vannarpettai
     city: Tirunelveli
-    region: TEN
+    region: TN
     postcode: '627003'
     country: India
     country_code: IN
